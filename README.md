@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="python.png" alt="" width=256 height=144>
+    <img src="python.png" alt="" width=256 height=184>
   </a>
 
   <p align="center">
