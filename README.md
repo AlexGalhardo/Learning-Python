@@ -26,3 +26,12 @@
 
 ## Communities
 - [Python Br Comunidades Locais](https://python.org.br/comunidades-locais/)
+
+
+## Fast HTTP Server
+
+    # If Python version is 3.X
+    python -m http.server
+    
+    # If Python version is 2.X
+    python -m SimpleHTTPServer
