@@ -20,14 +20,6 @@
       - [Django](https://www.djangoproject.com/)
       - [Flask](http://flask.pocoo.org/)
 
-## Installation
-
-- [How To Install Python 3 and Set Up a Programming Environment on an Ubuntu 16.04 Server](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-16-04-server)
-
-## Communities
-- [Python Br Comunidades Locais](https://python.org.br/comunidades-locais/)
-
-
 ## Fast HTTP Server
 
     # If Python version is 3.X
@@ -35,3 +27,7 @@
     
     # If Python version is 2.X
     python -m SimpleHTTPServer
+
+## Communities
+- [Python Br Comunidades Locais](https://python.org.br/comunidades-locais/)
+
