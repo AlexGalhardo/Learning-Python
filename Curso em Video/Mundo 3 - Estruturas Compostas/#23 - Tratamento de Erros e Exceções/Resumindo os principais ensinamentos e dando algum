@@ -1,0 +1,20 @@
+Resumindo os principais ensinamentos e dando algumas dicas extras que eu daria para mim mesmo quando comecei:
+1 - Usar o princípio de pareto para quase tudo. Regra dos 80/20
+2 - Programação é 80% prática "fuçando e aprendendo na raça mesmo" e 20% teoria. Se você não precisou trocar alguns HD ou SSDs durante o aprendizado, você fez algo errado.
+3 - Não importa se o PC é da NASA se o programador é nutela. Exemplo: Usar Big(O)2^n ao invés de (O)log n. É para isso que serve a teoria.
+4 - Recomendo fortemente o Lubuntu(https://lubuntu.net/) para computadores mais fracos. De todos os mais leves recomendados que eu usei e testei, o Lubuntu foi o melhor e nunca me "decepcionou." Inclusive ele é meu sistema operacional principal.
+5 - Apenas hackers e sêniors passam 80% do tempo fazendo algo de útil na frente do pc. Júniors e Intermediários é 80% aprendendo e quebrando a cara mesmo. Faz parte, e provavelmente é a melhor parte do processo. O que importa é a jornada. 
+6 - O Diolinux lançou um tutorial de como instalar o ArchLinux, um modo mais "hardcore" de instalação como o Akita já disse.
+   - Video É hoje que você instala o Arch Linux! - Tutorial COMPLETO!: https://www.youtube.com/watch?v=4orYC5ARfn8
+   - Blog Arch Linux para iniciantes - Como instalar o sistema passo a passo!: https://www.diolinux.com.br/2019/07/como-instalar-arch-linux-tutorial-iniciantes.html  
+7 - Você percebe que o programador é bom mesmo (hacker, sênior, jedi, ninja, chame do que quiser) quando ele faz 2 coisas:
+   - Não precisa de interface gráfica. (Next, next, next...)
+   - Não usa o mouse para nada, apenas o teclado.
+   - Usa o VIM para tudo.
+8 - Tudo o que você precisa para ser um hacker, jedi, ninja, chame do que quiser, é o GOOGLE. Namore o Google, case com o GOOGLE, nunca abandone o GOOGLE, ele será seu melhor amigo. Não, você não precisa de faculdade, cursinho online, diploma de Harvard etc para manjar dos paranauê, mais isso já é outra história.
+9 - Não importa o quanto você ache que é bom, sempre terá alguém melhor e com mais conhecimento do que você no mundo. Hackers, Jedi, Ninjas, chame do que quiser, conversam e aprendem com essas pessoas. Recomendo fortemente "fuçar" no Reddit, YouTube, Medium, GitHub,  Quora, Blogs etc etc etc, sobre tudo relacionado a tecnologia nas horas vagas. Recomendo fortemente estudar também sobre eletrônica (RaspberryPi, Arduino, etc), economia, filosofia, psicologia etc, como hobbies se possível. Nenhum ser humano vive só de café, bits e bytes, sempre é bom lembrar né.
+10 - Ignorantes se auto dominam "autodidatas", que não dependem de ninguém e aprendem "tudo sozinhas." Apenas gigantes sabem dar valor para os outros gigantes que o ajudaram. Abraços Newton. 
+11 - Existe algo melhor do que café, bits e bytes: Exercício Físico e ter sabedoria para dar valor para o que realmente importa.
+12 - Tudo isso que eu citei acima não importa nenhum pouco. Lembre sempre que a única coisa que importa é você agregar valor para outras pessoas com o conhecimento que você tem. O mundo e a sociedade não dão a mínima para o seu conhecimento técnico, apenas para o valor que você agrega a eles :)
+13 - Se você chegou até aqui, provavelmente você gosta de ter mentores e buscar bons professores. Parabéns, você faz parte da minoria que realmente se interessa em aprender e entender como as coisas realmente funcionam :)
+

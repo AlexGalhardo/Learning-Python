@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="python.png" alt="" width=256 height=184>
-  </a>
-
-  <p align="center">
-    Learning Python to make a friendly artificial intelligence in the future. :snake:
-    <br>
-  </p>
-
 ## References 
    - YouTube
       - [Curso em Video](https://www.youtube.com/user/cursosemvideo/featured)
