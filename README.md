@@ -9,6 +9,8 @@
    - Web
       - [Django](https://www.djangoproject.com/)
       - [Flask](http://flask.pocoo.org/)
+   - Blogs
+      - [Henrique Bastos](https://henriquebastos.net)
 
 ## Fast HTTP Server
 
